@@ -1,0 +1,22 @@
+name = "Hangman"
+short_name = "hangman-cole-wilson"
+author = "@jasmin-30"
+email = "jasmin-30cole@colewilson.xyz"
+short_description = "Test of shipsnake with jasmin-30/Hangman gh project"
+description = ""
+url = "https://github.com/jasmin-30/Hangman/"
+license = ""
+keywords = ""
+data_files = [ "words.txt",]
+file = "Hangman.py"
+modules = [ "",]
+bundle_id = "com.@jasmin-30.hangman-cole-wilson"
+homebrew = false
+icon = "False"
+
+[build]
+type = "1"
+mac = true
+windows = true
+installer = true
+actions = true
