@@ -11,12 +11,14 @@ data_files = [ "words.txt",]
 file = "Hangman.py"
 modules = [ "",]
 bundle_id = "com.@jasmin-30.hangman-cole-wilson"
-homebrew = false
-icon = "False"
+icon = "icon.icns"
+latest_build = "0.0.1"
 
 [build]
+homebrew = false
 type = "1"
 mac = true
 windows = true
 installer = true
 actions = true
+github = "cole-wilson/hangman-cole-wilson"
