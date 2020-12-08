@@ -22,3 +22,4 @@ windows = true
 installer = true
 actions = true
 github = "cole-wilson/hangman-cole-wilson"
+#
